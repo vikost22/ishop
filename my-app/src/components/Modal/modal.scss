@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  .modal-wrap {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.573);
+    transition-duration: 0.5s;
+    z-index: -9;
+    opacity: 0;
+    overflow-y: auto;
+  }
+  
+  .modal-wrap--active {
+    z-index: 999;
+    opacity: 1;
+  }
+  
+  .page-modal {
+    width: 635px;
+    background-color: rgb(216, 216, 216);
+  }
+  
+  .close-btn {
+    border: none;
+    background-color: transparent;
+    z-index: 2;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    height: 25px;
+    span {
+      display: block;
+      width: 25px;
+      height: 2px;
+      background-color: #fff;
+      &:first-of-type {
+        position: relative;
+        top: 2px;
+        transform: rotate(45deg);
+      }
+      &:last-of-type {
+        transform: rotate(135deg);
+      }
+    }
+  }
+  
+  .main-modal-actions{
+    display: flex;
+    justify-content: center;
+  }
+
+  .modal__content--scroll{
+    overflow: scroll;
+    max-height: 60vh;
+  }

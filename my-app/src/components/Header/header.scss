@@ -1,0 +1,27 @@
+.selected-counter{
+    color: black;
+    background-color: #fff;
+    width: 20px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: -10px;
+    left: 23px;
+    border-radius: 50%;
+ }
+ 
+ .header__selected-info{
+     display: flex;
+     column-gap: 15px;
+     padding-top: 10px;
+ }
+ 
+ .header__cart{
+     position: relative;
+     text-decoration: none;
+ }
+ .header__fav{
+     position: relative;
+ }

@@ -1,0 +1,23 @@
+.basket-item {
+  display: flex;
+  margin-bottom: 15px;
+  position: relative;
+}
+.basket-item__info {
+}
+.basket-item__title {
+}
+.basket-item__color {
+}
+.basket-item__price {
+}
+
+.trash-btn {
+  border: none;
+  background-color: transparent;
+  z-index: 2;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  height: auto;
+}

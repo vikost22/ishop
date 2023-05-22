@@ -1,0 +1,79 @@
+[
+  {
+    "title": "Apple iPhone 14 Pro Max",
+    "price": "1159$",
+    "imageUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_97280076/fee_786_587_png",
+    "code": "2832437",
+    "color": "black"
+  },
+  {
+    "title": "APPLE iPhone 12 5G 64GB Dual SIM",
+    "price": "659$",
+    "imageUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_78282202/fee_786_587_png",
+    "code": "2694641",
+    "color": "black"
+  },
+  {
+    "title": "APPLE iPhone 12 5G 64GB Dual SIM",
+    "price": "659$",
+    "imageUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_78281345/fee_786_587_png",
+    "code": "2694643",
+    "color": "red"
+  },
+  {
+    "title": "APPLE iPhone 13 128GB  Dual SIM",
+    "price": "819$",
+    "imageUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_87346175/fee_786_587_png",
+    "code": "2764483",
+    "color": "rose"
+  },
+  {
+    "title": "APPLE iPad Pro 11 Wi-Fi (2022)",
+    "price": "989$",
+    "imageUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_98695360/fee_786_587_png",
+    "code": "2841742",
+    "color": "space grau"
+  },
+  {
+    "title": "APPLE iPhone 13 128 GB Blau Dual SIM",
+    "price": "799$",
+    "imageUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_87346290/fee_786_587_png",
+    "code": "2764485",
+    "color": "blue"
+  },
+  {
+    "title": "APPLE MacBook Air (2022)",
+    "price": "1349$",
+    "imageUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_94547011/fee_786_587_png",
+    "code": "2813298",
+    "color": "space grau"
+  },
+  {
+    "title": "APPLE Watch Ultra GPS",
+    "price": "999$",
+    "imageUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_98472412/fee_786_587_png",
+    "code": "2833228",
+    "color": "alpine green"
+  },
+  {
+    "title": "APPLE Watch Series 7 (GPS) 45mm",
+    "price": "409$",
+    "imageUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_87848187/fee_786_587_png",
+    "code": "2767460",
+    "color": "red"
+  },
+  {
+    "title": "APPLE AirPods Pro",
+    "price": "239$",
+    "imageUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_88185551/fee_786_587_png",
+    "code": "2771284",
+    "color": "white"
+  },
+  {
+    "title": "APPLE AirPods Max",
+    "price": "599$",
+    "imageUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_79779187/fee_786_587_png",
+    "code": "2707450",
+    "color": "sky blue"
+  }
+]
