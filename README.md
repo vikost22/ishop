@@ -6,6 +6,6 @@
 та замовлення, цей проект є прикладом роботи з React.
 
 Використані технології:
-    - React
-    - React Routes 
-    - Redux
+- React
+- React Routes 
+- Redux/ Redux thunk
